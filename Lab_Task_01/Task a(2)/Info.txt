@@ -1,0 +1,6 @@
+Using C program find the values of the following expressions.
+
+F = mv² / R
+input: v, m, F
+Output : R
+

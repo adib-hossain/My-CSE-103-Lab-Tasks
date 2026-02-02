@@ -1,0 +1,6 @@
+Using C program find the values of the following expressions.
+
+S = ut + (1/2)at²
+Input: a, t, s
+Output: u
+

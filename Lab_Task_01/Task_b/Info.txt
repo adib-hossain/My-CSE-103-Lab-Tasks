@@ -1,0 +1,3 @@
+Write a C program to calculate BMI ( Body Mass Index)
+Input: height and weight
+Output: BMI vlue

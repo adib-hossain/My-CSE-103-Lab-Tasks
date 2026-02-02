@@ -1,0 +1,5 @@
+Using C program find the values of the following expressions.
+
+3. y=5x+9z²+6
+Input: x,z
+Output: y
